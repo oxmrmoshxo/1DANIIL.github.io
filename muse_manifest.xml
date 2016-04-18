@@ -1,0 +1,20 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="1daniil.com" resolutions="1x" timestamp="1460918808245">
+  <folder name="css">
+    <file name="site_global.css" crc="145160387"/>
+    <file name="index.css" crc="4283652407" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="elchapo.mp3" crc="92650067" seo="true" mt="1452787488000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4052736014" ref="index"/>
+    <file name="pasted image 600x400.jpg" crc="264055471" seo="true" ref="index"/>
+    <file name="срфзщ.png" crc="301496566" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3932556635" seo="true" mt="1460918797531" redirect="true"/>
+</manifest>
